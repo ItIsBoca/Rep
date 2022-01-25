@@ -29,7 +29,7 @@ section{
 .one {
     background: url('../one.jpg');
     background-size: cover;
-    color: rgb(241, 247, 247);
+    color: rgb(241, 247, 246);
 }
 .two {
     font-size: 6rem;
