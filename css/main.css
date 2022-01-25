@@ -29,6 +29,7 @@ section{
 .one {
     background: url('../one.jpg');
     background-size: cover;
+    color: rgb(241, 247, 247);
 }
 .two {
     font-size: 6rem;
@@ -46,3 +47,4 @@ p {
     white-space: nowrap;
     font-size: 30rem;
 }
+
