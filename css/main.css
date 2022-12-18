@@ -63,7 +63,7 @@ p {
     top: 0%;
     left: 15%;
     white-space: nowrap;
-    font-size: 15rem;
+    font-size: 10rem;
     font-family: 'Righteous', Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -90,7 +90,7 @@ p2 {
     top: 0%;
     left: 15%;
     white-space: nowrap;
-    font-size: 15rem;
+    font-size: 10rem;
     font-family: 'Righteous', Georgia, 'Times New Roman', Times, serif;
 }
 ul2{position: absolute;
